@@ -8,7 +8,7 @@ This repository contains coding developed at [42SP](https://www.42sp.org.br/) Ba
 
 ## 👨🏻‍💻 About 42
 
-    42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills.
+42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills.
 
 ## 🚀 Skills developed at 42Basecamp
 
@@ -73,3 +73,11 @@ The table below presents the 42Basecamp curriculum in chronological order in whi
 | C 12                  |    C     |                  0% :x: |
 | C 13                  |    C     |                  0% :x: |
 | Final Exam            |    C     |                  8% :x: |
+
+## 🤝 Show your support
+
+Give a ⭐️ if this project helped you or if just you like it!
+
+---
+
+Made with ❤ by [Guilherme Teixeira](https://github.com/guitexa)
