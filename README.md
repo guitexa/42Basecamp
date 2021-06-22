@@ -80,4 +80,4 @@ Give a ⭐️ if this project helped you or if just you like it!
 
 ---
 
-Made with ❤ by [Guilherme Teixeira](https://github.com/guitexa)
+Made with ❤ by [Guilherme Teixeira](https://github.com/guitexa) and inspired by [Amanda P. Pinha](https://github.com/appinha/42sp-piscine)
