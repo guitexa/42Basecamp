@@ -72,7 +72,7 @@ The table below presents the 42Basecamp curriculum in chronological order in whi
 | C 11                  |    C     |                  0% :x: |
 | C 12                  |    C     |                  0% :x: |
 | C 13                  |    C     |                  0% :x: |
-| Final Exam            |    C     |                  8% :x: |
+| Final Exam            |    C     |                 22% :x: |
 
 ## 🤝 Show your support
 
